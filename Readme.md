@@ -4,7 +4,7 @@ In this research subject, I have used New JLS factor model in order to study Bit
 In order to implement this equation, we have referred to few R functions as given in github repo: https://github.com/kupad95/LPPL-Bitcoin-in-R
 
 
-In data analysis, we have used 2 files in order to cover both the time periods
+In data analysis, we have used 2 files in order to cover both the time periods.
 
 
 
